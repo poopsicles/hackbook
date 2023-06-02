@@ -6,7 +6,7 @@ This contains the files I used for my [OpenCore](https://github.com/acidanthera/
 
 1. Reconsider. You're probably better off following the [Dortania Install Guide](https://dortania.github.io/OpenCore-Install-Guide/) from scratch.
 
-2. If you choose to continue, then cloning the repo and using these `BOOT` and `OC` folders in your EFI should give you a great start. You probably want to read my rationale behind some decisions and experiences in my [r/Hackintosh post](https://dortania.github.io/OpenCore-Install-Guide/) (like Bluetooth being iffy).
+2. If you choose to continue, then cloning the repo and using these `BOOT` and `OC` folders in your EFI should give you a great start. You probably want to read my rationale behind some decisions and experiences in my [r/Hackintosh post](https://www.reddit.com/r/hackintosh/comments/xcm01v/) (like Bluetooth being iffy).
 
 3. Put in your own generated SMBIOS info in [config.plist](OC/config.plist) -> PlatformInfo -> Generic, I removed mine because, well, obviously.
 
