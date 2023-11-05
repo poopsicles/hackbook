@@ -1509,13 +1509,13 @@
 			<key>AdviseFeatures</key>
 			<false/>
 			<key>MLB</key>
-			<string>REPLACE</string>
+			<string></string>
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
-			<data>REPLACE</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemMemoryStatus</key>
@@ -1523,9 +1523,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro11,4</string>
 			<key>SystemSerialNumber</key>
-			<string>REPLACE</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>REPLACE</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
